@@ -1,0 +1,5 @@
+(3, None, (0, (3, None, (0, None))))
+(3, (0, None), (3, None, (0, None)))
+(3, (3, None, (0, None)), (0, None))
+(3, (0, (3, None, (0, None))), None)
+(2, (2, (3, None, (0, (3, None, (0, None))))))
